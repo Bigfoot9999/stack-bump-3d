@@ -1,6 +1,6 @@
 # Stack Bump 3D
 
-Stack Bump 3D is an awesome time killing game that you'll definitely enjoy. Shoot up the tower to it's last block and move on with the next tower. Keep on going until you finish!
+Stack Bump 3D is an awesome time-killing game that you'll definitely enjoy. Shoot up the tower to its last block and move on with the next tower. Keep on going until you finish!
 
 ## Play
 
